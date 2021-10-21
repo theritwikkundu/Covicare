@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738652417504",
+    "firebase_url": "https://covicare-app-default-rtdb.firebaseio.com/",
+    "project_id": "covicare-app",
+    "storage_bucket": "covicare-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738652417504:android:4c884372327c0e5beb0f85",
+        "android_client_info": {
+          "package_name": "tech.grassxopper.covicare_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738652417504-r2aekas3hqvd8aortbaqkc03osbq04rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYewPCT1KskBjrFs6E0kf_p8rKSbzIWpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738652417504-r2aekas3hqvd8aortbaqkc03osbq04rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
