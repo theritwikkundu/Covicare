@@ -1,3 +1,14 @@
+<div id="top"></div>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+---
+
 <h1 align="center">Covicare - A comprehensive application for COVID-19 care and record management</h1>
 
 _The primary idea behind the project is to build a comprehensive application, preferably a mobile app to provide an all-encompassing pandemic protection solution for people. The two main aspects of the app are all-in-one care and record management._
@@ -41,3 +52,19 @@ The users have the option to register themselves on the app and existing users c
 ---
 
 Please ⭐️ this repository if this project helped you!
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/theritwikkundu/Covicare.svg?style=for-the-badge
+[contributors-url]: https://github.com/theritwikkundu/Covicare/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/theritwikkundu/Covicare.svg?style=for-the-badge
+[forks-url]: https://github.com/theritwikkundu/Covicare/network/members
+[stars-shield]: https://img.shields.io/github/stars/theritwikkundu/Covicare.svg?style=for-the-badge
+[stars-url]: https://github.com/theritwikkundu/Covicare/stargazers
+[issues-shield]: https://img.shields.io/github/issues/theritwikkundu/Covicare.svg?style=for-the-badge
+[issues-url]: https://github.com/theritwikkundu/Covicare/issues
+[license-shield]: https://img.shields.io/github/license/theritwikkundu/Covicare.svg?style=for-the-badge
+[license-url]: https://github.com/theritwikkundu/Covicare/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/theritwikkundu/
